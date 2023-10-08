@@ -1,3 +1,10 @@
+:root{
+  --primary-color:#DBF4A7;
+  --primary-color-shades-1:#E3F988;
+  --primary-color-shades-2:#CBF42A;
+  --primary-color-shades-3:#F6FDD8;
+}
+
 body {
   min-height: 100vh;
   line-height: 1.6;

@@ -1,0 +1,4 @@
+<template>
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800"><defs><filter id="bbblurry-filter" x="-100%" y="-100%" width="400%" height="400%" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+	<feGaussianBlur stdDeviation="130" x="0%" y="0%" width="100%" height="100%" in="SourceGraphic" edgeMode="none" result="blur"></feGaussianBlur></filter></defs><g filter="url(#bbblurry-filter)"><ellipse rx="245" ry="247" cx="627.5025244589075" cy="340.59929315137674" fill="hsla(71, 100%, 50%, 0.13)"></ellipse><ellipse rx="245" ry="247" cx="505.1423378396033" cy="573.7469159320667" fill="hsla(82, 100%, 49%, 0.21)"></ellipse><ellipse rx="245" ry="247" cx="274.7420349121094" cy="292.1855773925781" fill="hsla(64, 99%, 50%, 0.21)"></ellipse></g></svg>
+</template>
